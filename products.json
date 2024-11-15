@@ -1,0 +1,22 @@
+{
+    "filtered_products": [
+        {
+            "title": "Lipstick Matte",
+            "name": "MAC",
+            "price": 19.99,
+            "link": "http://example.com/lipstick",
+            "year": "2024",
+            "gama_de_produse": "Makeup",
+            "volume": "5ml"
+        },
+        {
+            "title": "Foundation SPF30",
+            "name": "Fenty",
+            "price": 39.99,
+            "link": "http://example.com/foundation",
+            "year": "2024",
+            "gama_de_produse": "Makeup",
+            "volume": "30ml"
+        }
+    ]
+}
